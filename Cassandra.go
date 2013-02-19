@@ -5,7 +5,7 @@
 package Cassandra;
 
 import (
-        "thrift"
+        "github.com/partkyle/go-thrift"
         "fmt"
 )
 
